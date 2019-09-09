@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.defaultBg {
+  min-height: calc(100vh - 56px);
+}
+.cntr {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.page-bg {
+  min-height: 40vh;
+}
+.active-tab {
+  background: #1a202c;
+}
