@@ -12,7 +12,7 @@ class Skills extends Component {
         <section
           style={{
             display: "grid",
-            gridTemplateColumns: "repeat(auto-fill, minmax(200px, 1fr))",
+            gridTemplateColumns: "repeat(auto-fill, minmax(150px, 1fr))",
             gridGap: "1.5rem",
           }}
         >

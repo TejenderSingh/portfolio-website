@@ -14,7 +14,7 @@ const About = () => {
             I love building Responsive, Interactive and User Friendly websites
             using HTML, CSS and JavaScript. I also have experience working with
             some of the latest technologies including React.js, Vue.js,
-            Gatsby.js and nuxt.js. I am passionate about Web Development where I
+            Gatsby.js and Nuxt.js. I am passionate about Web Development where I
             can make a difference and feel proud of being able to create
             something that is distinctive and positively impact prople's lives.
           </p>
@@ -32,7 +32,7 @@ const About = () => {
       <div
         className={`flex lg:flex-col items-center justify-center w-full max-w-lg lg:max-w-md xl:max-w-lg mx-auto`}
       >
-        <AboutImage classes="h-64 w-64 rounded rounded-full" />
+        <AboutImage classes="h-64 w-64 rounded-full" />
       </div>
     </WrapperHomeAbout>
   )

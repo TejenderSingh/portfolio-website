@@ -16,7 +16,7 @@ const SkillCard = ({ title, img }) => {
         </div>
         <div className={`px-6 py-4 bg-gray-100`}>
           <div
-            className={`font-bold text-gray-800 text-xl capitalize leading-snug`}
+            className={`font-semibold text-gray-800 text-lg leading-snug truncate`}
           >
             {title}
           </div>
